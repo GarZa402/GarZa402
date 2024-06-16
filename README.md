@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SalleConnect**
 
-- 🌱 I’m currently learning **Web Development, HTML, CSS, JS, Bootstrap, Cibersecurity, NodeJs, APIs, SQL, React**
+- 🌱 I’m currently learning **Web Development, HTML, CSS, JS, Bootstrap, Python, Cibersecurity**
 
 - 📫 How to reach me **juanjosegarcia756@gmail.com**
 
@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/juan-josé-garcía-villegas-548a42189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-josé-garcía-villegas-548a42189" height="30" width="40" /></a>
 <a href="https://instagram.com/juanj_garciav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanj_garciav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/juanjosegarcia756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juanjosegarcia756" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
