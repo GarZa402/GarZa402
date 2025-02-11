@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SalleConnect**
 
-- 🌱 I’m into **Web Development, HTML, CSS, JS, Bootstrap, Python, Cibersecurity**
+- 🌱 I’m into **Web Development, Python, Cibersecurity**
 
 - 📫 How to reach me **juanjosegarcia756@gmail.com**
 
