@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan José García Villegas</h1>
 <h3 align="center">A passionate Rookie Web Developer developer from Colombia</h3>
 
-- 🔭 I’m currently working on **SalleConnect**
 
-- 🌱 I’m into **Web Development, Python, Cibersecurity**
+- 🌱 I’m into **Web Development and Cibersecurity**
 
 - 📫 How to reach me **juanjosegarcia756@gmail.com**
 
